@@ -25,6 +25,7 @@ As três abas são Início, Filmes e Perfil. A barra inferior permanece disponí
 Alternativa pela linha de comando, com JDK 17 e SDK configurados:
 
 ```sh
+chmod +x gradlew
 ./gradlew assembleDebug lintDebug
 ```
 
